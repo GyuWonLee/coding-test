@@ -4,4 +4,4 @@ class Solution {
         myString = myString.replaceAll("a", "A");
         return myString;
     }
-}
+} 
